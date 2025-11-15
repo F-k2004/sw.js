@@ -1,5 +1,5 @@
 // sw.js
-const CACHE_NAME = 'pwa-weather-static-v1';
+onst CACHE_NAME = 'pwa-weather-static-v1';
 const DATA_CACHE = 'pwa-weather-data-v1';
 
 const STATIC_ASSETS = [
